@@ -1,3 +1,5 @@
+**This code is AI Generated**
+
 # MenuTransitionSpeed 0.1.15
 
 Сборка для Monster Hunter: World, Steam build 15539686.
